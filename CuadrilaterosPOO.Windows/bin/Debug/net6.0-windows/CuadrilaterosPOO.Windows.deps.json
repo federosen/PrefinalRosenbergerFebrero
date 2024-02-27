@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CuadrilaterosPOO.Windows/1.0.0": {
+        "dependencies": {
+          "CuadrilaterosPOO.Datos": "1.0.0",
+          "CuadrilaterosPOO.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "CuadrilaterosPOO.Windows.dll": {}
+        }
+      },
+      "CuadrilaterosPOO.Datos/1.0.0": {
+        "dependencies": {
+          "CuadrilaterosPOO.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "CuadrilaterosPOO.Datos.dll": {}
+        }
+      },
+      "CuadrilaterosPOO.Entidades/1.0.0": {
+        "runtime": {
+          "CuadrilaterosPOO.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CuadrilaterosPOO.Windows/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CuadrilaterosPOO.Datos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CuadrilaterosPOO.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

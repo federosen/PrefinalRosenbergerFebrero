@@ -1,0 +1,15 @@
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO\bin\Debug\net6.0\CuadrilaterosPOO.Datos.deps.json
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO\bin\Debug\net6.0\CuadrilaterosPOO.Datos.dll
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO\bin\Debug\net6.0\CuadrilaterosPOO.Datos.pdb
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO\bin\Debug\net6.0\CuadrilaterosPOO.Entidades.dll
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO\bin\Debug\net6.0\CuadrilaterosPOO.Entidades.pdb
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO\obj\Debug\net6.0\CuadrilaterosPOO.Datos.csproj.AssemblyReference.cache
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO\obj\Debug\net6.0\CuadrilaterosPOO.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO\obj\Debug\net6.0\CuadrilaterosPOO.Datos.AssemblyInfoInputs.cache
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO\obj\Debug\net6.0\CuadrilaterosPOO.Datos.AssemblyInfo.cs
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO\obj\Debug\net6.0\CuadrilaterosPOO.Datos.csproj.CoreCompileInputs.cache
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO\obj\Debug\net6.0\CuadrilaterosPOO.Datos.csproj.CopyComplete
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO\obj\Debug\net6.0\CuadrilaterosPOO.Datos.dll
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO\obj\Debug\net6.0\refint\CuadrilaterosPOO.Datos.dll
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO\obj\Debug\net6.0\CuadrilaterosPOO.Datos.pdb
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO\obj\Debug\net6.0\ref\CuadrilaterosPOO.Datos.dll

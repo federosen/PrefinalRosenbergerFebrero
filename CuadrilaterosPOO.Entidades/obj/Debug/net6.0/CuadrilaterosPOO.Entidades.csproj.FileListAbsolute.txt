@@ -1,0 +1,11 @@
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO.Entidades\bin\Debug\net6.0\CuadrilaterosPOO.Entidades.deps.json
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO.Entidades\bin\Debug\net6.0\CuadrilaterosPOO.Entidades.dll
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO.Entidades\bin\Debug\net6.0\CuadrilaterosPOO.Entidades.pdb
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO.Entidades\obj\Debug\net6.0\CuadrilaterosPOO.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO.Entidades\obj\Debug\net6.0\CuadrilaterosPOO.Entidades.AssemblyInfoInputs.cache
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO.Entidades\obj\Debug\net6.0\CuadrilaterosPOO.Entidades.AssemblyInfo.cs
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO.Entidades\obj\Debug\net6.0\CuadrilaterosPOO.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO.Entidades\obj\Debug\net6.0\CuadrilaterosPOO.Entidades.dll
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO.Entidades\obj\Debug\net6.0\refint\CuadrilaterosPOO.Entidades.dll
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO.Entidades\obj\Debug\net6.0\CuadrilaterosPOO.Entidades.pdb
+C:\Users\fEdE\Desktop\EntregarPrefinal\CuadrilaterosPOO.Entidades\obj\Debug\net6.0\ref\CuadrilaterosPOO.Entidades.dll
